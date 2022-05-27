@@ -30,9 +30,9 @@ Maintain
 */
 
 // Using const since these should never change ;)
-const planning = 'Step 1' ;
-const analysisOfRequirements = 'Step 2';
-const design = 'Step 3';
-const implementation = 'Step 4';
-const testingAndMaintain = 'Step 5';
-const maintain = 'Step 6';
+const planning = 'Decide what you would like to build and do.' ;
+const analysisOfRequirements = 'Decide what your project should do';
+const design = 'What the project will look like and detail it';
+const implementation = 'Begin the code and finish writing it';
+const testingAndMaintain = 'Make sure all of the code works and meets your requirements that you set before';
+const maintain = 'Maintain what you have built, give updates and fix if there are bugs';
