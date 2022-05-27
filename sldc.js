@@ -12,12 +12,16 @@
 // Planning
 // Testing & Integration
 
+
+// HERE ARE MY ANSWERS
+/*
 Planning 
 Analysis of Requirements
 Design
 Implementation
 Testing & Integration
 Maintain
+*/
 
 
 //////////////////PROBLEM 2////////////////////
